@@ -1,6 +1,3 @@
-import Image from "next/image";
-import { Inter } from "next/font/google";
-import { useEffect } from "react";
 import axios from "axios";
 
 export default function Home() {
